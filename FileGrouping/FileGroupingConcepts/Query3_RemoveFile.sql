@@ -1,0 +1,1 @@
+Alter DataBase BookStoreArchive Remove File BookStoreArchive2
