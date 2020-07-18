@@ -1,0 +1,17 @@
+--*************************************
+--select * from Titles where title like '[mno]e%'
+--*************************************
+--select * from Titles where title like '[^mno]e%'
+--*************************************
+--select * from Titles where title like ‘[a-n]e%’
+--*************************************
+ --select * from Titles order by Price desc
+--Go
+--select * from Titles order by Type,Price desc
+--Go
+--select * from Titles order by Price desc
+--Go
+--select * from Titles order by Type,Price desc
+--Go
+--select * from Titles order by 3
+--Go
